@@ -1,0 +1,33 @@
+AIM :- Simulate Mobile Adhoc Network with Directional Antenna. 
+
+-------------------------------------------------------------------------
+
+Step 1 :- From the Toolbar, Select 1 Fan, 1 Door, 1 Light, 1 Motion Detector, 1 Smartphone and 1 Home Gateway.
+
+Step 2 :- Click on Fan, Go to Advanced.
+
+Step 3 :- Go to I/O Config, Change Network Adapter to “PT-IOT-NM-1W”.
+
+Step 4 :- Go to Config, in Iot Server select Home Gateway.
+
+	Similarly do this with Light, Door and Motion Detector.
+
+Step 5 :- In HomeGateway Go to Config tab, click on wireless from there copy the SSID of home gateway.
+
+Step 6:- Now Click on Smartphone Go to Config Tab, click on Wireless0 Paste the SSID.
+
+Step 7 :- In HomeGateway Go to Config tab, click on LAN from there copy the IP address of home gateway.
+
+Step 8 :- Now Click on Smartphone Go to Desktop tab, click on web browser, paste the ip address and click on go.
+
+Step 9 :- for username type “admin” and for password type “admin” then click on submit.
+
+Step 10 :- Now Click on Conditions.
+
+Step 11 :- Click on Add.
+
+Step 12 :- In Add Rule Tab, Provide the Name for your rule. Specify the conditions and click on ok.
+
+Step 13 :- Add multiple conditions like this for FanOn, FanOff, LightOn, LightOff, DoorOpen, DoorClose.
+
+Step 14 :- Now hold Ctrl+Alt button, and hover the cursor on motion detector to activate. This will be the final result.
