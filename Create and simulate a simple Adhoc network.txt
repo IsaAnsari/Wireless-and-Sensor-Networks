@@ -1,0 +1,17 @@
+AIM :- Create and simulate a simple Adhoc network. 
+
+-------------------------------------------------------
+
+Step 1:- From the bottom toolbar, click on ‘Network Devices’ then click ‘Wireless Devices’
+	and select ‘AP-PT’ Access Point.
+
+Step 2:- From the bottom toolbar, click on ‘End Devices’ and select ‘PC’ and then click on
+	the screen (for 5 PC’s do this step five times).
+
+Step 3:- Now, we will make the PC wireless, for that Click on PC, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then remove the ethernet port
+	from PC and assign the ‘PT-HOST-NM-1W’ port, then turn on the power button.
+
+Step 4:- Similarly, Do this with Every PC.
+
+We have successfully connected with every device.
