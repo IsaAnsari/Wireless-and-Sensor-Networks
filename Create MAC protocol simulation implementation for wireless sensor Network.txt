@@ -1,0 +1,19 @@
+AIM :- Create MAC protocol simulation implementation for wireless sensor Network.
+
+-------------------------------------------------------------------------------------------
+
+Step 1:- From the Toolbar, Select the ‘WRT300N’ Router, 3 Laptops, 2 Smartphones and 1 Tablet.
+
+Step 2:- Now, we will make the Laptop wireless, for that Click on Laptop, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then remove the
+	ethernet port from laptop and assign the ‘PT-LAPTOP-NM-1W’ port, then turn on the power button.
+
+Step 3:- Click on Laptop, Go to config tab, select wireless0 option and from there copy the MAC address of the Laptop.
+	Similarly, Copy the MAC address of Tablet also.
+
+Step 4:- Click on Router, Go to GUI tab, Select Wireless option and then Select Wireless MAC Filter.
+	Click on Enabled then Select Prevent PC’s listed below from accessing the wireless network.
+
+Step 5:- Below Type the Copied MAC Addresses and then click on save settings.
+
+Step 6:- Now the Devices with the MAC address will loose the connection with the router.
