@@ -1,0 +1,24 @@
+AIM :- Create a mobile network using Cell Tower, Central Office Server, Web browser and Web Server. 
+Simulate connection between them 
+
+-----------------------------------------------------------------------------------------------
+
+Step 1 :- From the ToolBar, Select 1 Wireless Router “WRT-300N”, 1 PC, 1 Server-PT, 1
+	Smartphone, 1 Cell Tower and 1 Central-Office-Server.
+
+Step 2 :- Use Coaxial wire for connection between Cell Tower and Central-Office-Server.
+
+Step 3 :- Now, we will make the Server and PC wireless, for that Click on Server, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then remove the
+	ethernet port from server and assign the ‘PT-HOST-NM-1W’ port, then turn on the power button.
+
+	Same with PC.
+
+Step 4 :- In Server, Go to Config, then Go to wireless1, Check Ip Configuration is selected to
+	DHCP and then Copy the Ipv4 Address.
+
+Step 5 :- Now Click on Smartphone Go to Desktop tab, click on web browser, paste the ip address and click on go.
+
+Step 6 :- From Desktop tab, Go to IP configuration, Copy the Ipv4 Address.
+
+Step 7 :- Now Click on PC Go to Desktop tab, click on Command Prompt, ping the copied Ipv4 address of smartphone.
