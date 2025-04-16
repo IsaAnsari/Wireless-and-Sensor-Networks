@@ -1,0 +1,40 @@
+AIM :- Understanding, Reading and Analyzing Routing Table of a network. 
+
+--------------------------------------------------------------------------
+
+Step 1: From the Toolbar, select 3 Routers ‘1841’, 3 switches ‘2960-24TT’ and 5 PC’s.
+	Connect Routers to Switches and Switches to PC’s by using ‘Automatically Choose Connection Type for each Connection’.
+
+Step 2:Add Serial Interface in Each Router.
+	Click on Router0, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then assign the ‘WIC-2T’ port, 
+	then turn on the power button.
+
+	Similarly, do this with Router1 and Router2.
+
+Step 3: Now, Connect the Routers with ‘Serial DCE’ wire.
+	For connection between Router0 to Router1, select serial0/0/0 and serial0/0/1.
+
+	For connection between Router1 to Router2, select serial0/0/0 and serial0/0/1.
+
+Step 4: Configure Router0.
+
+Step 5: Configure Router1.
+
+Step 6: Configure Router2.
+
+Step 7: Configure PC0 and PC1.
+
+Step 8: Configure PC2 and PC3.
+
+Step 9: Configure PC4.
+
+Step 10:- Configure Router0 using CLI mode.
+
+Step 11:- Configure Router1 using CLI mode.
+
+Step 12:- Configure Router2 using CLI mode.
+
+	We have successfully connected with every device.
+
+Step 13: To check the connections.
