@@ -1,0 +1,20 @@
+AIM :- Implement a Wireless sensor network simulation. 
+
+--------------------------------------------------------------
+
+Step 1:- From the bottom Toolbar, Click on Network Devices and then on Wireless Devices
+	from there select ‘AP-PT’ Access Point, From End Devices Select a ‘Server-PT’, 2 PC's and 1 Laptop.
+
+Step 2:- Now, we will make the Laptop wireless, for that Click on Laptop, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then remove the
+	ethernet port from laptop and assign the ‘PT-LAPTOP-NM-1W’ port, then turn on the power button.
+
+Step 3:- Now, we will make the PC’s wireless, for that Click on PC, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then remove the ethernet port
+	from PC and assign the ‘PT-HOST-NM-1W’ port, then turn on the power button.
+
+Step 4:- Now, we will make the Server wireless, for that Click on Server, dialog box will appear.
+	In dialog box, in Physical section, first turn off the power button then remove the
+	ethernet port from server and assign the ‘PT-LAPTOP-NM-1W’ port, then turn on the power button.
+
+	We have successfully connected with every device.
