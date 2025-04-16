@@ -1,0 +1,13 @@
+AIM :- Create a basic MANET implementation simulation for Packet animation and Packet Trace.
+
+----------------------------------------------------------------------------------------------------
+
+Step 1:- From the Toolbar, select 1 Wireless Router ‘WRT300N’ and 5 Movable Devices like Laptops.
+
+Step 2:- Now, we will make the Laptop wireless, for that Click on Laptop, dialog box will
+	appear. In dialog box, in Physical section, first turn off the power button then remove the
+	ethernet port from laptop and assign the ‘PT-LAPTOP-NM-1W’ port, then turn on the power button.
+
+Step 3:- Similarly, Do this with Every PC.
+
+	We have successfully connected with every device.
